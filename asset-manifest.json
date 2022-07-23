@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kapybara/static/css/main.073c9b0a.css",
+    "main.js": "/kapybara/static/js/main.51ac7d92.js",
+    "static/js/787.134db539.chunk.js": "/kapybara/static/js/787.134db539.chunk.js",
+    "static/media/confetti.jpg": "/kapybara/static/media/confetti.1c8ba1ebc36681d252b4.jpg",
+    "static/media/capy.jpg": "/kapybara/static/media/capy.4c0fa121de4ed69d2700.jpg",
+    "index.html": "/kapybara/index.html",
+    "main.073c9b0a.css.map": "/kapybara/static/css/main.073c9b0a.css.map",
+    "main.51ac7d92.js.map": "/kapybara/static/js/main.51ac7d92.js.map",
+    "787.134db539.chunk.js.map": "/kapybara/static/js/787.134db539.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.51ac7d92.js"
+  ]
+}
