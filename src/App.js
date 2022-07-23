@@ -21,14 +21,16 @@ function App() {
     }}>
       {show ?
         <button onClick={() => setWidth(width + 10)}>
-          <img src={capy} width={width} alt="logo" />
+          <img src={capy} width={width} alt="capybara" />
         </button>
         :
         <div>
           <div>
-            <img src={confetti} width={500} />
+            <img src={confetti} width={500} alt="confetti" />
           </div>
-          <button onClick={() => setShow(true)}> CLICK TO RESTART</button>
+          <div style={{ display: 'flex', flex: 1, justifyContent: 'center' }}>
+            <button onClick={() => setShow(true)}> CLICK TO RESTART</button>
+          </div>
         </div>
       }
 
