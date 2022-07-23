@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   const [width, setWidth] = useState(100);
-  const [show, setShow] = useState(false);
+  const [show, setShow] = useState(true);
   if (width > 300) {
     setShow(false)
     setWidth(100)
